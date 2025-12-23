@@ -8,7 +8,7 @@ I enjoy combining **data-driven thinking**, **clean code**, and **practical prob
 
 ---
 
-## 🚀 Areas of Interest
+## Areas of Interest
 
 - Mobile Application Development (Flutter)
 - Docker & Containerization
@@ -16,23 +16,23 @@ I enjoy combining **data-driven thinking**, **clean code**, and **practical prob
 
 ---
 
-### 💻 Programming Languages
+### Programming Languages
 - Java
 - Python
 - C++
 - SQL
 
-### 📱 Mobile Development
+###  Mobile Development
 - Flutter
 - REST API integration
 - State management basics
 
-### 🗄️ Databases
+###  Databases
 - Oracle SQL
 - PostgreSQL
 - Database modeling & normalization
 
-### ⚙️ Tools & Technologies
+###  Tools & Technologies
 - Git & GitHub
 - Docker & Docker Desktop
 - VS Code/PyCharm
@@ -40,7 +40,7 @@ I enjoy combining **data-driven thinking**, **clean code**, and **practical prob
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🔹 QR-Based Security Personnel Tracking System
 - Mobile QR scanning system for university security staff
@@ -54,7 +54,7 @@ I enjoy combining **data-driven thinking**, **clean code**, and **practical prob
 
 ---
 
-## 📘 Learning & Development
+##  Learning & Development
 
 - Artificial Intelligence fundamentals
 - Algorithmic problem solving
@@ -71,7 +71,7 @@ I enjoy combining **data-driven thinking**, **clean code**, and **practical prob
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - GitHub: [github.com/pinar-nida-tunca](https://github.com/pinar-nida-tunca)
 - LinkedIn:  [linkedin.com/in/pınar-nida-tunca](https://www.linkedin.com/in/p%C4%B1nar-nida-tunca-850972333)
