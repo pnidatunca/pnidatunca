@@ -1,3 +1,4 @@
+## Pınar Nida Tunca
 I'm a **Computer Engineering student** with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.
 
 I focus on extracting insights from data, building predictive models, and understanding how intelligent systems learn and make decisions.  
@@ -62,7 +63,7 @@ I enjoy combining **data-driven thinking**, **clean code**, and **practical prob
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Improve system design skills
 - Build scalable backend services
